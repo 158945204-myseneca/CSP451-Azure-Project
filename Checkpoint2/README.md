@@ -46,7 +46,7 @@ The [git_status_committed.txt](https://github.com/158945204-myseneca/CSP451-Azur
 
 Push your changes to remote and run git status. Make sure the output is "Everything is up to date". Run git log -n 5 to get the details of your last commit.
 
-The README.md file that contains the output of `log -n 5` can be found [here](https://github.com/158945204-myseneca/CSP451-Azure-Project/blob/9d7b4de1c7ddf26858b260bc2c0cf13018d83d97/Checkpoint2/emojis/README.md)
+**The README.md file that contains the output of `log -n 5` can be found [here](https://github.com/158945204-myseneca/CSP451-Azure-Project/blob/9d7b4de1c7ddf26858b260bc2c0cf13018d83d97/Checkpoint2/emojis/README.md)**
 
 ---
 
