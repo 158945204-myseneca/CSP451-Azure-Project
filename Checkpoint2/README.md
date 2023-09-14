@@ -104,17 +104,15 @@ It is important to understand the naming conventions in branching when you are p
 
 Read though [Git Branching Strategy](./GitStrategies/README.md). Answer below questions in your `README.md`. Your answers can be one-two paragraphs. Try to elaborate but remain brief and to the point. **If you copy answers from internet or other students your mark for this assignment would be zero.**
 
-1. What are the differences between `develop` branch and `main` branch?
+### 1. What are the differences between `develop` branch and `main` branch?
 
-```
 We can consider the 'main' branch as the production or release-ready branch. It contains stable production-ready code that is redy for deployment. The 'develop' branch resembles a development area where individuals can work with one another to create ideas and address issues as a team before moving it towards the 'main' branch.
 
 In simple terms, the 'main' branch serves as the finished product whereas the 'develop' branch is where experimentation and adjustments occur before being brought forth to the 'main' branch.
-```
 
-2. What are the three supporting branches? Briefly describe the function of each of these supporting branches.
 
-```
+### 2. What are the three supporting branches? Briefly describe the function of each of these supporting branches.
+
 Three supporting branches may include:
 
 Feature branches
@@ -125,12 +123,9 @@ Release branches are used to prepare for a new production release. The code in t
 
 Hotfix branches
 Hotfix branches are created to address critical issues or bugs in the production code found after a release. These branches allow for immediate fixes to be made without interfering with ongoing development in 'develop.' Once the hotfix is complete, it's merged into both 'main' and 'develop' to ensure that the issue is resolved in both places.
-```
 
-3. What are the best practices in working with `release` branches?
+### 3. What are the best practices in working with `release` branches?
 
-```
 When handling 'release' branches, keeping things organized will help any software releases go smoothly. In order to do so, one can provide `release` branches with clear names such as `release/1.0.0,` and create them from the latest `develop` code. When working on the `release` branch, it is important that we focus on fixing bugs, ensuring that everything works, avoiding adding any new features. It is then recommended that we test the heck out of it, including unit tests, integrations, and user checks. It is also important that we keep the version numbers updated to match the release, and to keep any documentation and release notes up to date. After it's all set, merge it into both main for the new release and develop for ongoing work, by using the pull feature. Once you're done, it's a good idea to clean up and delete that release branch to keep things tidy. Keeping the team in the loop and automating where possible helps to smoothen the process as well.
-```
 
 This information is based on this [link](https://learn.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops)
