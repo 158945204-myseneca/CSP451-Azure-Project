@@ -118,7 +118,7 @@ Three supporting branches may include:
 Created for specific new features or bug fixes. Each feature branch focuses on a specific piece of work, making it easier to manage and collaborate on new features without disrupting the 'develop' branch. These branches are merged back into 'develop' after the feature is complete.
 
 ## Release branches
-Release branches are used to prepare for a new production release. The code in the release branch is tested and fine-tuned before it is ready for deployment. When the release branch is complete, it is merged into both'main' to establish a new production release and 'develop' to include any final-minute adjustments.
+Release branches are used to prepare for a new production release. The code in the release branch is tested and fine-tuned before it is ready for deployment. When the release branch is complete, it is merged into both 'main' to establish a new production release and 'develop' to include any final-minute adjustments.
 
 ## Hotfix branches
 Hotfix branches are created to address critical issues or bugs in the production code found after a release. These branches allow for immediate fixes to be made without interfering with ongoing development in 'develop.' Once the hotfix is complete, it's merged into both 'main' and 'develop' to ensure that the issue is resolved in both places.
