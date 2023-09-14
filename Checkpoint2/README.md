@@ -58,16 +58,15 @@ You can use `git status` command to understand the status of the files in your w
 
 **git status** - helps users understand the current state of their working directory in relation to their local repository.
 
-```
 Indicates which files have been staged for the next commit
-```
+
 
 **git log** - provides a detailed history of commits in the repository.
 
 ```
 commit b3181d606a1d9efba3845ecc2fd2c1c09d5ded87 Author: Ken Chu kchu29@myseneca.ca Date: Wed Sep 13 13:29:23 2023 -0400
 
-        Adds emojis to feat-emojis branch
+Adds emojis to feat-emojis branch
 ```
 
 ---
