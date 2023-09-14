@@ -89,7 +89,7 @@ Adds emojis to feat-emojis branch
 14. Go to GitHub web page and look into `feat-emojis` branch and compare it with `main`. You should see the `emojis` folder and its content in `feat-emojis` branch but not in `main`
 15. Merge `feat-emojis` to `main`. For this, you need to first `git checkout main` and then `git merge feat-emojis`. Run `git log -n 5`, you will need this for your submission.
 
-### The output of the `git log -n 5` can be found [here](https://github.com/158945204-myseneca/CSP451-Azure-Project/blob/9d7b4de1c7ddf26858b260bc2c0cf13018d83d97/Checkpoint2/emojis/README.md) ###
+### The output of the `git log -n 5` can be found [here](https://github.com/158945204-myseneca/CSP451-Azure-Project/blob/4917a69218033ad384279949cd600118dea463bf/Checkpoint2/emojis/README.md) ###
 
 ---
 
