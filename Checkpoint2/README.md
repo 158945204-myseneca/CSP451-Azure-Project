@@ -76,7 +76,7 @@ commit b3181d606a1d9efba3845ecc2fd2c1c09d5ded87 Author: Ken Chu kchu29@myseneca.
 
 1. Work from local VS Code. Make sure you are working in the folder specific to this assignment.
 2. Create a sub-folder called `footnotes`
-3. Copy the files [rendered-footnote.png](Checkpoint2/footnotes/rendered-footnote.png) and [tips-footnote.md](Checkpoint2/footnotes/tips-footnote.md) to your `footnotes` folder
+3. Copy the files [rendered-footnote.png](https://github.com/158945204-myseneca/CSP451-Azure-Project/blob/4318f74e7b9d94c511a4303a234cb65acc446901/Checkpoint2/footnotes/rendered-footnote.png) and [tips-footnote.md](https://github.com/158945204-myseneca/CSP451-Azure-Project/blob/4318f74e7b9d94c511a4303a234cb65acc446901/Checkpoint2/footnotes/tips-footnote.md) to your `footnotes` folder
 4. Navigate through the files and understand what it does, you might need it in future assignments
 5. Push your changes to remote: `add`, `commit`, `push` your work with comment _"adds footnotes folder"_
 6. Work from local VS Code. Make sure you are working in the folder specific to this assignment.
@@ -84,7 +84,7 @@ commit b3181d606a1d9efba3845ecc2fd2c1c09d5ded87 Author: Ken Chu kchu29@myseneca.
 8. Start working in your branch by `git checkout feat-emojis`
 9. Confirm you are working in you recently created branch by `git branch`. There would be a `*` beside active branch.
 10. Create a folder called `emojis`
-11. Copy the files [emojis-rendered.png](Checkpoint2/emojis/emoji-rendered.png) and [tips-emojis.md](Checkpoint2/emojis/tips-emojis.md) to `emojis` folder
+11. Copy the files [emojis-rendered.png](https://github.com/158945204-myseneca/CSP451-Azure-Project/blob/4318f74e7b9d94c511a4303a234cb65acc446901/Checkpoint2/emojis/emoji-rendered.png) and [tips-emojis.md](https://github.com/158945204-myseneca/CSP451-Azure-Project/blob/4318f74e7b9d94c511a4303a234cb65acc446901/Checkpoint2/emojis/tips-emojis.md) to `emojis` folder
 12. Navigate through the files and understand what it does, you might need it in future assignments
 13. Push your changes to remote: `add`, `commit`, `push` your work with comment _"adds emojis to feat-emojis branch"_
 14. Go to GitHub web page and look into `feat-emojis` branch and compare it with `main`. You should see the `emojis` folder and its content in `feat-emojis` branch but not in `main`
