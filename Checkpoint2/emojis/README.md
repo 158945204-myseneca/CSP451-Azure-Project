@@ -1,3 +1,8 @@
+# Part C - Creating & Merging Branches
+
+Merge feat-emojis to main. For this, you need to first git checkout main and then git merge feat-emojis. Run git log -n 5, you will need this for your submission.
+
+```
 commit b3181d606a1d9efba3845ecc2fd2c1c09d5ded87
 Author: Ken Chu <kchu29@myseneca.ca>
 Date:   Wed Sep 13 13:29:23 2023 -0400
@@ -27,3 +32,4 @@ Author: Ken Chu <107362418+158945204-myseneca@users.noreply.github.com>
 Date:   Wed Sep 13 08:23:01 2023 -0400
 
     Delete Checkpoint2 directory
+```
