@@ -95,7 +95,7 @@ Adds emojis to feat-emojis branch
 
 ## Part D - Git Branching Strategy Review Questions
 
-<img src="Checkpoint2/images/branching-conventions.png"
+<img src="https://github.com/158945204-myseneca/CSP451-Azure-Project/blob/08a6f3f8615894d46b7893c0b43a9b9dd5757c04/Checkpoint2/images/branching-conventions.png"
      alt="Branching Conventions"
      style="left; margin-right: 10px;" height="500"/>
 
