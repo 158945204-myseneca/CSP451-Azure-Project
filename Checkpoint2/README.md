@@ -105,7 +105,7 @@ Read though [Git Branching Strategy](./GitStrategies/README.md). Answer below qu
 
 ### 1. What are the differences between `develop` branch and `main` branch?
 
-We can consider the 'main' branch as the production or release-ready branch. It contains stable production-ready code that is redy for deployment. The 'develop' branch resembles a development area where individuals can work with one another to create ideas and address issues as a team before moving it towards the 'main' branch.
+We can consider the 'main' branch as the production or release-ready branch. It contains stable production-ready code that is ready for deployment. The 'develop' branch resembles a development area where individuals can work with one another to create ideas and address issues as a team before moving it towards the 'main' branch.
 
 In simple terms, the 'main' branch serves as the finished product whereas the 'develop' branch is where experimentation and adjustments occur before being brought forth to the 'main' branch.
 
@@ -114,13 +114,13 @@ In simple terms, the 'main' branch serves as the finished product whereas the 'd
 
 Three supporting branches may include:
 
-Feature branches
+## Feature branches
 Created for specific new features or bug fixes. Each feature branch focuses on a specific piece of work, making it easier to manage and collaborate on new features without disrupting the 'develop' branch. These branches are merged back into 'develop' after the feature is complete.
 
-Release branches
+## Release branches
 Release branches are used to prepare for a new production release. The code in the release branch is tested and fine-tuned before it is ready for deployment. When the release branch is complete, it is merged into both'main' to establish a new production release and 'develop' to include any final-minute adjustments.
 
-Hotfix branches
+## Hotfix branches
 Hotfix branches are created to address critical issues or bugs in the production code found after a release. These branches allow for immediate fixes to be made without interfering with ongoing development in 'develop.' Once the hotfix is complete, it's merged into both 'main' and 'develop' to ensure that the issue is resolved in both places.
 
 ### 3. What are the best practices in working with `release` branches?
