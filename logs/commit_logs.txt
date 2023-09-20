@@ -1,0 +1,35 @@
+commit 712de5672ebe0eee6f5bdf143e0333f045f915a3
+Author: 158945204-myseneca <kchu29@myseneca.ca>
+Date:   Wed Sep 20 04:32:10 2023 -0400
+
+    Modifies style color in index.html to blue
+
+commit c3cd795a2b04542bc2cd4f068bec80361b596467
+Author: 158945204-myseneca <kchu29@myseneca.ca>
+Date:   Wed Sep 20 04:29:50 2023 -0400
+
+    Modifies style color in index.html to red
+
+commit 5c640dd079124ec02e6679e2cf407f8cffdc040b
+Author: 158945204-myseneca <kchu29@myseneca.ca>
+Date:   Tue Sep 19 08:02:46 2023 -0400
+
+    Adds Checkpoint3 Folder
+
+commit 8c5a699459e73aaa00c67694db1768a8617b6119
+Author: 158945204-myseneca <kchu29@myseneca.ca>
+Date:   Thu Sep 14 11:39:49 2023 -0400
+
+    Added Log Record of last commit
+
+commit d7b0b7aab24d708a98149c2e21cb6e03171b4f34
+Author: 158945204-myseneca <kchu29@myseneca.ca>
+Date:   Thu Sep 14 11:38:55 2023 -0400
+
+    Added Log Record of last commit
+
+commit 806abbe1da722d1c8b09bbd1acbb3509888d3fe3
+Author: 158945204-myseneca <kchu29@myseneca.ca>
+Date:   Thu Sep 14 11:30:19 2023 -0400
+
+    Corrected formatting
