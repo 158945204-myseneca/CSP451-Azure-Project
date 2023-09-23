@@ -1,0 +1,12 @@
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   logs/part3-pull-conflict.log
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	logs/part3-status.log
+
