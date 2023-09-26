@@ -18,7 +18,7 @@
 
 The [part1-conflict-error.log.txt](https://github.com/158945204-myseneca/CSP451-Azure-Project/blob/7cfbaa6b41124937eb50cca200f28b86f7219e6b/Checkpoint3/logs/part1-conflict-error.log) file can be found here.
 
-The [part1-conflict-overwrite.log]() file can be found here.
+The [part1-conflict-overwrite.log](https://github.com/158945204-myseneca/CSP451-Azure-Project/blob/cfce2494d4e3baa5a01cdbe80fdc1c4ec7710dd9/Checkpoint3/logs/part1-conflict-overwrite.log) file can be found here.
 
 ## Part B - Manage Conflicts - Reset Local Commit Head
 
