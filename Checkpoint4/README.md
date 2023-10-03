@@ -64,7 +64,7 @@ The [student_vnet.json](https://github.com/158945204-myseneca/CSP451-Azure-Proje
 
 The [vnet_list.json](https://github.com/158945204-myseneca/CSP451-Azure-Project/blob/e6e4c2e328aff6f6cec8c8b4be268f1df8c9431f/Checkpoint4/json/vnet_list.json) file can be found here.
 
-## Part C - Manage Conflicts - Merge Editor
+## Part C - Network Review Questions
 
 **What is Azure Virtual Network (VNET)? Elaborate in your own words, you may use diagrams if drawn by yourself.**
 
