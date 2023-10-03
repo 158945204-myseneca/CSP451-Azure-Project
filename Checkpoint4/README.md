@@ -12,9 +12,9 @@
 
 ### Table of Contents
 1. [Part A - Creating Network Resources using Azure CLI](#Part-A-Creating-Network-Resources-using-Azure-CLI)
-2. [Part B - Working with Azure CLI Bash](#header2)
-3. [Part C - Network Review Questions](#header3)
-4. [Part D - Creating Virtual Machines](#header4)
+2. [Part B - Working with Azure CLI Bash](#Part-B-Working-with-Azure-CLI-Bash)
+3. [Part C - Network Review Questions](#Part-C-Network-Review-Questions)
+4. [Part D - Creating Virtual Machines](#Part-D-Creating-Virtual-Machines)
 
 ## Part A - Creating Network Resources using Azure CLI
 
