@@ -1,0 +1,6 @@
+Location       Name       ProvisioningState    ResourceGroup       ResourceGuid
+-------------  ---------  -------------------  ------------------  ------------------------------------
+canadacentral  LR-NSG-22  Succeeded            Student-RG-1088917  3b9ce5cd-e32e-49a3-9867-51a6e8d41015
+canadacentral  LS-NSG-22  Succeeded            Student-RG-1088917  09819b5a-d77c-42f0-aed5-5fdfa8b896f6
+canadacentral  WC-NSG-22  Succeeded            Student-RG-1088917  d1ae5640-56de-4328-b781-38a92ccec205
+canadacentral  WS-NSG-22  Succeeded            Student-RG-1088917  95c9acb2-eab6-4262-b2e1-1ead679699b9

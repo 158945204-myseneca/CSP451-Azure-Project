@@ -1,0 +1,6 @@
+Name    ResourceGroup       Location       Zones
+------  ------------------  -------------  -------
+LR-22   STUDENT-RG-1088917  canadacentral
+LS-22   STUDENT-RG-1088917  canadacentral
+WC-22   STUDENT-RG-1088917  canadacentral
+WS-22   STUDENT-RG-1088917  canadacentral
