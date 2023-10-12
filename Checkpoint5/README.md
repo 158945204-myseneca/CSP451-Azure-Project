@@ -140,7 +140,7 @@ az network nic show --resource-group Student-RG-1088917 --name lr-22236_z1 --out
     "vnetEncryptionSupported": false,
     "enableIPForwarding": true,
     "networkSecurityGroup": {
-      "id": "/subscriptions/71d310bf-1718-4d11-87d1-99a7d4e2053f/resourceGroups/Student-RG-1088917/providers/Microsoft.Network/networkSecurityGroups/LR
+      "id": "/subscriptions/71d310bf-1718-4d11-87d1-99a7d4e2053f/resourceGroups/Student-RG-1088917/providers/Microsoft.Network/networkSecurityGroups/LR"
 ```
 
 2. When your output format is json, which property shows the status of the ip-forwarding attribute? Embed only the property that shows the status of ip-forwarding.
