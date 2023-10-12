@@ -19,6 +19,7 @@
 6. [Part F - Create Customized Azure Dashboard](#part-f---create-customized-azure-dashboard)
 
 
+
 # Part A - Creating & Configuring VMs - Using Portal
 
 1. What is the difference between Windows machine NSG and Linux machine NSG rules? Why? **Do not give screenshots** just describe the difference? Do you need a rule for `ssh` or `rdp`? What happens if you delete specific `ssh` and `rdp` rules?
