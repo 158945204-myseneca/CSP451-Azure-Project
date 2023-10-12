@@ -90,7 +90,7 @@ az disk list --output table
 | WS-22_disk1_5e7675ebe048465198dacdd5ff3f2817    | STUDENT-RG-1088917  | canadacentral  |       | StandardSSD_LRS  | Windows | 127    | Succeeded         |
 | WS-22_disk1_f22569b06b6c4c1db64e8283aeea3887    | STUDENT-RG-1088917  | canadacentral  | 1     | Standard_LRS     | Windows | 127    | Succeeded         |
 
-# Part B - Enable IP_Forwarding - Using Portal
+# Part B - Enable IP Forwarding - Using Portal
 
 1. Check the status of ip-forwarding using the command az network nic ip-config show with output format as json. Include only the command not output including the --quey you used in your submission.
 
