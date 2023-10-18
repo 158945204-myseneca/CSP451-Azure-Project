@@ -1,0 +1,15 @@
+Chain INPUT (policy ACCEPT 22900 packets, 650M bytes)
+ pkts bytes target     prot opt in     out     source               destination
+  111 22740 ACCEPT     tcp  --  *      *       0.0.0.0/0            0.0.0.0/0            state RELATED,ESTABLISHED
+    0     0 ACCEPT     icmp --  *      *       0.0.0.0/0            0.0.0.0/0
+    0     0 ACCEPT     all  --  lo     *       0.0.0.0/0            0.0.0.0/0
+    0     0 LOG        all  --  *      *       0.0.0.0/0            0.0.0.0/0            limit: avg 10/sec burst 5 LOG flags 0 level 4 prefix "TO_DROP_INPUT"
+    0     0 DROP       all  --  *      *       0.0.0.0/0            0.0.0.0/0
+
+Chain FORWARD (policy ACCEPT 0 packets, 0 bytes)
+ pkts bytes target     prot opt in     out     source               destination
+    0     0 DROP       all  --  *      *       0.0.0.0/0            0.0.0.0/0
+
+Chain OUTPUT (policy ACCEPT 21165 packets, 3206K bytes)
+ pkts bytes target     prot opt in     out     source               destination
+  139 30477 ACCEPT     all  --  *      *       0.0.0.0/0            0.0.0.0/0
